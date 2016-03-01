@@ -1,0 +1,1 @@
+This helps to work with SQLite Database on Adobe AIR applications. It accepts database name to create it. And accepts the SQL strings to do the SQLite transactions and dispatches the result event or error event depending upon the success or failure of the transactions.
